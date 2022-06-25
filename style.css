@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body {
+    background-color: #f1f1f4;
+    color: #0f141e;
+
+    font: normal 16px 'Ubuntu', sans-serif;
+    
+    /* font-size: 16px;
+    font-weight: 500;
+    font-family: 'Ubuntu', sans-serif; */
+
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    border: 1px solid #5b677a;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.info p {
+    color: #555d66;
+    margin: 0;
+}
